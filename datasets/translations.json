@@ -1,0 +1,18 @@
+{
+    "english_kapangpangan": {
+        "hello": "kumusta",
+        "goodbye": "pamanuli"
+    },
+    "kapangpangan_english": {
+        "kumusta": "hello",
+        "pamanuli": "goodbye"
+    },
+    "kapampangan_tagalog": {
+        "kumusta": "kamusta",
+        "pamanuli":"paalam"
+    },
+    "tagalog_kapampangan": {
+        "kamusta": "kumusta",
+        "paalam": "pamanuli"
+    }
+}
