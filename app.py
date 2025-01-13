@@ -1,4 +1,4 @@
-from flask import Flask, jsonify, request
+from flask import Flask, jsonify, request , render_template
 import json
 
 app = Flask(__name__)
@@ -6,6 +6,19 @@ app = Flask(__name__)
 # Load dataset
 with open('datasets/translations.json', 'r') as file:
     dataset = json.load(file)
+
+
+
+
+
+@app.route('/')
+def landing():
+    message = "Hello, this message is dynamic!"
+    return render_template('index.html', message=message)
+
+
+
+
 
 @app.route('/translate/<path:translation_type>', methods=['GET'])
 def translate(translation_type):
