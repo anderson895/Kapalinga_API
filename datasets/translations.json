@@ -1,7 +1,7 @@
 {
     "english_kapampangan": {
         "hello": "kumusta",
-  "goodbye": "pamanuli",
+  "goodbye": "maulaga",
   "thank you": "salamat",
   "sorry": "pasensya",
   "good morning": "mayap a abak",
@@ -27,7 +27,6 @@
   "friend": "kaibigan",
   "family": "pamilya",
   "home": "balay",
-  "house": "bale",
   "good afternoon": "mayap a gatpanapun",
   "what time is it?": "anu oras?",
   "it's 5 o'clock": "oras iyan 5",
@@ -258,7 +257,8 @@
     },
     "kapampangan_english": {
         "kumusta": "hello",
-        "pamanuli": "goodbye",
+        "komusta naka?": "how are you doing?",
+        "maulaga": "goodbye",
         "salamat": "thank you",
         "pasensya": "sorry",
         "magandang abak": "good morning",
@@ -266,7 +266,6 @@
         "kamusta ka?": "how are you?",
         "ayos ku": "I am fine",
         "paki": "please",
-        "pasensya": "excuse me",
         "o": "yes",
         "ali": "no",
         "nanu ing lagyu mu?": "what is your name?",
@@ -274,7 +273,7 @@
         "akung lugud ka": "I love you",
         "namiss ku ka": "I miss you",
         "magkanu?": "how much?",
-        "makalagwang": "expensive",
+        "makalagwang": "contains",
         "asa?": "where?",
         "diti": "here",
         "ayan": "there",
@@ -375,7 +374,6 @@
         "katotohanan": "reality",
         "buhay": "life",
         "kamatayan": "death",
-        "alapaap": "sun",
         "bulan": "moon",
         "bituin": "star",
         "langit": "sky",
@@ -391,7 +389,7 @@
         "pulo": "island",
         "pag-ulan ning niyebe": "snowfall",
         "kalikuan": "fog",
-        "bagyo": "hurricane",
+        "bagyu": "hurricane",
         "alapaap": "cloud",
         "kulog": "thunder",
         "kidlat": "lightning",
@@ -508,10 +506,10 @@
         "diabetes": "diabetes"
     },
     "kapampangan_tagalog": {
+  "komusta naka?": "kamusta ka na?",
   "kumusta": "kamusta",
   "pamanuli": "paalam",
   "salamat": "salamat",
-  "pasensya": "paumanhin",
   "magandang abak": "magandang umaga",
   "magandang gabing gabi": "magandang gabi",
   "kamusta ka?": "kamusta ka?",
@@ -744,6 +742,7 @@
   "diabetes": "diabetes"
     },
     "tagalog_kapampangan": {
+        "komusta ka?": "Komusta naka?",
         "alam": "balu",
         "maasim": "maslam",
         "bumagsak": "miragsa ya",
@@ -771,7 +770,6 @@
         "ginto": "gintu",
         "biyahe": "pasyal",
         "pagsubok": "pamasaliksik",
-        "komusta ka?": "komusta naka",
         "sino?": "ninu?",
         "kailan?": "kapilan?",
         "kapampangan": "kampampang",
