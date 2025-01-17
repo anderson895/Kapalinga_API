@@ -2,6 +2,8 @@
     "english_kapampangan": {
   "hello": "kumusta",
   "hi": "kumusta",
+  "enjoy": "saya",
+  "joy": "saya",
   "beautiful": "masalese",
   "hello.": "kumusta",
   "back": "gulut",
@@ -862,6 +864,7 @@
         "kalusugan": "health",
         "may sakit": "ill",
         "ubo": "cough",
+        "saya": "enjoy",
         "lagnat": "fever",
         "sipon": "cold",
         "pananakit ning ulo": "headache",
